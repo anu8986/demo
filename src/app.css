@@ -2736,7 +2736,6 @@
     display: flex;
     gap: -4px;
     align-items: center;
-    /* background-color: white; */
     border-top: 2px solid orangered;
     border-right: 2px solid orangered;
   }
