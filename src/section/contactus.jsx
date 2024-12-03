@@ -9,7 +9,7 @@ import MenucontactMD from '../page/MenucontactMD'
 import MenucontactSD from '../page/MenucontactSD';
 
 
-function Contactus() {
+const  Contactus =()=> {
 
     return (
         <div className='contact-us'>

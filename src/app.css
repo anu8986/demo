@@ -33,8 +33,6 @@
   font-size: 24px;
   color: white;
   font-weight: 800;
-  /* display: none; */
-
 }
 
 .close-icons-nav {
@@ -154,13 +152,11 @@
   border: none;
   padding: 10px;
   border-radius: 9px;
-  /* position: absolute; */
 }
 
 .btn-contact {
   display: flex;
   justify-content: center;
-  /* background-color: brown; */
 }
 
 .sub-contact-btn:hover {
@@ -183,7 +179,6 @@
   justify-content: center;
   margin-top: 50px;
   gap: 20px;
-
 }
 
 .share-icons {
@@ -247,7 +242,6 @@
 .menu-lg {
   display: grid;
   grid-template-columns: 33% 33% 33%;
-  /* background-color: rgb(243, 228, 218); */
   width: 100%;
 }
 
@@ -294,7 +288,6 @@
 }
 
 .featured-section {
-  /* background-color: aquamarine; */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -311,7 +304,6 @@
   width: 60px;
   height: 60px;
   padding: 20px;
-  /* z-index: 22; */
   color: white;
 }
 
@@ -455,7 +447,6 @@
   font-size: 13px;
 }
 
-
 .property-whole-container {
   display: flex;
   flex-direction: column;
@@ -481,12 +472,10 @@
 .pro-img-container {
   position: relative;
   background-color: cornflowerblue;
-
 }
 
 .pro-pricing-crd {
   position: absolute;
-
 }
 
 .house1 {
@@ -581,7 +570,6 @@
 .award-container {
   display: flex;
   flex-direction: column;
-  /* justify-content: start; */
   flex-basis: 50%;
   padding: 0;
   background-color: yellowgreen;
@@ -652,7 +640,6 @@
   display: flex;
   flex-direction: column;
   align-items: end;
-  /* background-color: blueviolet; */
   width: 100%;
   height: max-content;
 }
@@ -790,7 +777,6 @@
 
 .enjoy-gallery {
   width: 100%;
-
 }
 
 .seminar-gallery {
@@ -860,7 +846,6 @@
 .annoce-container2 {
   display: flex;
   flex-basis: 45%;
-  /* background-color: aquamarine; */
   padding-top: 23px;
   justify-content: end;
 
@@ -1024,7 +1009,6 @@
 .ch-position-container {
   display: flex;
   justify-content: end;
-  /* background-color: aquamarine;  */
   height: 100px;
   width: 100%;
   position: absolute;
@@ -1049,9 +1033,7 @@
   color: white;
 }
 
-.home-sections {
-  /* background-color: aquamarine; */
-}
+
 
 .home-container-secion {
   display: flex;
@@ -1063,7 +1045,6 @@
   display: flex;
   flex-direction: row;
   flex-basis: 70%;
-  /* background-color: violet; */
 }
 
 .home-container1 {
@@ -1177,7 +1158,6 @@
 
 .property-container {
   display: flex;
-
 }
 
 .property-content1 {
@@ -1207,7 +1187,6 @@
 
 .pricing-property-container {
   width: 30%;
-  /* background-color: thistle; */
 }
 
 .RM-container {
@@ -1242,7 +1221,6 @@
 .property-card-img-container {
   background-image: url('./assets//buliding.png');
   height: 100vh;
-  /* background-size: cover; */
   background-size: contain;
   background-repeat: no-repeat;
   display: flex;
@@ -1260,9 +1238,7 @@
   gap: 10px;
   flex-basis: 60%;
   margin-top: 10PX;
-  /* background-color: rgb(198, 163, 157); */
   position: relative;
-
 }
 
 .cards-pro-hotel {
@@ -1290,7 +1266,6 @@
 }
 
 .featured-cards {
-  /* background-color: rgb(240, 144, 144); */
   display: flex;
   width: 100%;
   height: 190px;
@@ -1312,7 +1287,6 @@
   width: 160px;
   text-align: center;
   border-top-right-radius: 18px;
-
 }
 
 .profile-container-featured {
@@ -1336,7 +1310,6 @@
   display: flex;
   gap: 15px;
   align-items: center;
-  /* background-color: white; */
   border-top: 2px solid orangered;
   border-right: 2px solid orangered;
 }
@@ -1394,7 +1367,6 @@
 
 .empy-plus {
   background-color: orangered;
-  /* padding: 24px; */
   border-radius: 50%;
   font-size: 15px;
   width: 53px;
@@ -1412,15 +1384,11 @@
   color: orangered;
 }
 
-.done-deal-section {
-  /* background-color: aquamarine; */
-}
-
 /* done deal  */
 .done-deal-section {
   padding-top: 25px;
-  background-image: url('./assets/pngwing.com\ \(6\).png');
-  height: 130vh;
+  background-image: url("http://localhost:3000/static/media/pngwing.com%20(6).6f724cc….png");
+  height:92vh;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -1468,7 +1436,6 @@
   display: flex;
   gap: 10px;
   margin-top: 5px;
-
 }
 
 .done-deal-count {
@@ -1504,13 +1471,11 @@
 
 .empy-plus1 {
   background-color: orangered;
-  /* padding: 24px; */
   border-radius: 50%;
   font-size: 15px;
   width: 53px;
   height: 49px;
   margin-left: -13px;
-
 }
 
 .count-item {
@@ -1531,7 +1496,6 @@
 .sec-profile-section1 {
   width: 230px;
   height: 300px;
-  /* background-color: yellow; */
 }
 
 .sec-profile-section2 {
@@ -1591,7 +1555,6 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-
 }
 
 .black-container {
@@ -1641,7 +1604,6 @@
   width: 50px;
   height: 45px;
   border-radius: 50%;
-  /* margin-left: -13px; */
 }
 
 .card-content-sec {
@@ -1661,6 +1623,17 @@
   color: white;
   line-height: 9px;
 }
+
+.ch-img-container {
+  display: flex;
+  flex-basis: 30%;
+}
+
+.ch-content-container {
+  display: flex;
+  flex-basis: 30%;
+}
+
 
 @media (min-width: 300px) and (max-width:480px) {
   .list-items {
@@ -2112,18 +2085,6 @@
     margin-left: 0;
   }
 
-  .ch-imgs {
-    width: 35%;
-    height: 90px;
-    margin-top: 15px;
-  }
-
-  .abt-heading {
-    font-size: 19PX;
-    font-weight: 700;
-    margin-right: 40px;
-  }
-
   .featured-para-sec {
     font-size: 6px;
   }
@@ -2131,6 +2092,90 @@
   .done-deal-section {
     display: none;
   }
+
+  .abt-heading {
+    font-size: 15PX;
+    font-weight: 700;
+    margin-right: 40px;
+  }
+
+  .empy-plus {
+    background-color: orangered;
+    /* padding: 24px; */
+    border-radius: 50%;
+    font-size: 15px;
+    width: 34px;
+    height: 39px;
+  }
+
+  .pro-content-container {
+    padding: 4px;
+  }
+
+  .buy-btn {
+    background-color: orangered;
+    width: 78px;
+    border: none;
+    border-radius: 9px;
+
+  }
+
+  .rent-btn {
+    border-radius: 9px;
+    border: 2px solid orangered;
+    height: 39px;
+    width: 62px;
+    background-color: white;
+    color: orangered;
+  }
+
+  .option-pricing-container {
+    display: flex;
+    justify-content: center;
+    gap: 6px;
+  }
+
+  .announcement-section {
+    background-image: url(http://localhost:3000/static/media/Designer%20Background.d21eec7….jpg);
+    width: 100%;
+    height: 59vh;
+    padding: 20px;
+  }
+
+  .property-card-img-container {
+    background-image: url(http://localhost:3000/static/media/buliding.1e3a32a….png);
+    height: 49vh;
+    /* background-size: cover; */
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+  }
+
+  .annoucement-buliding {
+    width: 100%;
+    height: 288px;
+    border-top-right-radius: 35px;
+  }
+
+  .input-posti {
+    height: 38px;
+    width: 104%;
+    border: none;
+    FONT-SIZE: 13px;
+  }
+
+  .ch-imgs {
+    width: 34%;
+    height: 90px;
+    margin-top: 15px;
+  }
+  .ch-position-container{
+    display: none;
+  }
+
+
+
+
 }
 
 @media (min-width: 481px) and (max-width:720px) {
@@ -2258,6 +2303,9 @@
 
   .ch-position-containe {
     width: 120px;
+  }
+  .done-deal-section {
+    display: none;
   }
 
   .ch-position-container {
@@ -2443,6 +2491,50 @@
     bottom: -3px;
     border-radius: 3px;
   }
+
+  .cards-container {
+    display: none;
+  }
+
+  .post-cards1 {
+    width: max-content;
+    height: max-content;
+    background-color: white;
+    line-height: 1px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    position: absolute;
+    right: -6px;
+    bottom: 84px;
+    border-radius: 3px;
+  }
+
+  .tech-real {
+    font-size: 27px;
+    font-weight: 700;
+    margin-top: 52px;
+    color: white;
+  }
+
+  .tech-reals {
+    font-size: 26px;
+    margin-top: 53px;
+    color: white;
+  }
+
+  .ch-imgs {
+    width: 100%;
+    height: 90px;
+    margin-top: 15px;
+  }
+
+  img.ch-imgs1 {
+    width: 100%;
+  }
+
+
 }
 
 @media (min-width: 721px) and (max-width:1220px) {
@@ -2723,4 +2815,83 @@
     bottom: 42px;
     border-radius: 3px;
   }
+
+  img.ch-imgs1 {
+    width: 100%;
+  }
+
+  .ch-imgs {
+    width: 100%;
+    height: 90px;
+    margin-top: 15px;
+  }
+
+  .sec-profile-section2 {
+    width: 202px;
+    height: 290px;
+    position: relative;
+  }
+
+  .post-cards1 {
+    width: max-content;
+    height: max-content;
+    background-color: white;
+    line-height: 1px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    position: absolute;
+    right: 27px;
+    bottom: 60px;
+    border-radius: 3px;
+  }
+
+  .card-pro {
+    width: 81%;
+    height: 100%;
+    border-top-right-radius: 39px;
+  }
+
+  .empy-plus1 {
+    background-color: orangered;
+    /* padding: 24px; */
+    border-radius: 50%;
+    font-size: 15px;
+    width: 36px;
+    height: 40px;
+    margin-left: -13px;
+  }
+
+  .img-profile {
+    display: flex;
+    margin-left: 10px;
+  }
+
+  .hande-shake-icons {
+    font-size: 42px;
+    color: rgb(197, 195, 195);
+    margin-left: 10px;
+    margin-top: 85px;
+  }
+
+  .hande-shake-icons {
+    font-size: 42px;
+    color: rgb(197, 195, 195);
+    margin-left: 10px;
+    margin-top: 85px;
+  }
+
+  .done-deal-section {
+    padding-top: 25px;
+    background-image: url("http://localhost:3000/static/media/pngwing.com%20(6).6f724cc….png");
+    height:92vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+  }
+
+
+
 }

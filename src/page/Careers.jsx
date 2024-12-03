@@ -81,10 +81,17 @@ function Careers() {
                 </div>
 
                 <div className='ch-position-container'>
-                    <img className='ch-imgs' src={Ch} alt="" />
-                    <p className='tech-real'>TECH</p>
-                    <p className='tech-reals'>REALTORS</p>
-                    <img className='ch-imgs' src={ch1} alt="" />
+                    <div className='ch-img-container'>
+                        <img className='ch-imgs' src={Ch} alt="" />
+                    </div>
+
+                    <div className='ch-content-container'>
+                        <p className='tech-real'>TECH</p>
+                        <p className='tech-reals'>REALTORS</p>
+                    </div>
+                    <div className='ch-img-container'>
+                        <img className='ch-imgs1' src={ch1} alt="" />
+                    </div>
                 </div>
 
             </div>

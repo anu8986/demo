@@ -6,7 +6,8 @@ import Contactus from '../section/contactus';
 
 
 const Navbar = () => {
-  const [show, setshow] = useState(false)
+  const [show, setshow] = useState(false);
+  
 
   const hanleclick = () => {
     setshow(!show)
